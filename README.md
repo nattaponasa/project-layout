@@ -16,7 +16,7 @@ If you need help with naming, formatting and style start by running [`gofmt`](ht
 * https://blog.golang.org/package-names
 * https://github.com/golang/go/wiki/CodeReviewComments
 * [Style guideline for Go packages](https://rakyll.org/style-packages) (rakyll/JBD)
-
+* asjkdhfjkasasjdfjk
 See [`Go Project Layout`](https://medium.com/golang-learn/go-project-layout-e5213cdcfaa2) for additional background information.
 
 More about naming and organizing packages as well as other code structure recommendations:
